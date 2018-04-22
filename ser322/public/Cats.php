@@ -14,23 +14,17 @@
 <body> 
  
 <div class="container">
-  <h2>Petsposion</h2>
+  <h2>Petsplosion</h2>
   <div class="panel panel-default">
     <div class="panel-body"><ul class="nav nav-pills nav-stacked">
-  <li cla
-  ss="active"><a href="#">Home</a></li>
+  <li class="active"><a href="#">Home</a></li>
   <li><a href="#">Cats</a></li>
   <li><a href="#">Dogs</a></li>
   <li><a href="#">Shelters</a></li>
 </ul></div>
   </div>
-</div>
-</body>
-</php>
 
 <h2>Cats</h2>
-
-<div class="container">
   <table class="table table-condensed">
     <thead>
       <tr>
