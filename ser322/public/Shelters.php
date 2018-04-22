@@ -1,3 +1,4 @@
+
 <?php include "templates/header.php"; ?>
 
 <!DOCTYPE php>
@@ -28,22 +29,21 @@
 </body>
 </php>
 
-<h2>Dogs</h2>
+<h2>Shelters</h2>
 
 <div class="container">
   <table class="table table-condensed">
     <thead>
       <tr>
         <th>Name</th>
-        <th>Age</th>
-        <th>Sex</th>
-        <th>Color</th>
-        <th>Breed</th>
-        <th>Location</th>
+        <th>Address</th>
+        <th>E-Mail</th>
+        <th>Phone</th>
       </tr>
     </thead>
     <tbody>
 
+      </tr>
     </tbody>
   </table>
 </div>

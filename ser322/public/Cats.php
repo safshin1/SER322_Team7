@@ -43,33 +43,7 @@
       </tr>
     </thead>
     <tbody>
-      <tr>
-        <td>Bane</td>
-        <td>4</td>
-        <td>M</td>
-        <td>Black and White</td>
-        <td>Tuxedo</td>
-        <td>Phoneix</td>
-      </tr>
-       <tr>
-        <td>Felix</td>
-        <td>1</td>
-        <td>M</td>
-        <td>Grey</td>
-        <td>Russian Blue</td>
-        <td>Phoneix</td>
-      </tr>
-      
-       <tr>
-        <td>Serena</td>
-        <td>6</td>
-        <td>F</td>
-        <td>Grey and Black</td>
-        <td>Tabby</td>
-        <td>Houghton</td>
-      </tr>
 
-      </tr>
     </tbody>
   </table>
 </div>
