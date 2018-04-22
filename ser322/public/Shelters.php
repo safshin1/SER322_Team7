@@ -1,7 +1,7 @@
 <?php include "templates/header.php"; ?>
 
-<!DOCTYPE php>
-<php lang="en">
+<!DOCTYPE html>
+<html lang="en">
 <echo> <body style="background-color:teal"></echo>
 <head>
   <title>Bootstrap Example</title>
@@ -41,6 +41,6 @@
 </div>
 
 </body>
-</php>
+</html>
 
 <?php include "templates/footer.php"; ?>
