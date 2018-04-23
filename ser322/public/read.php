@@ -18,17 +18,6 @@
 </ul></div>
   </div>
 
-
-
-
-<h3>Find animals based on pet type</h3>
-
-<form method="post">
-	<label for="type">Pet type</label>
-	<input type="text" id="type" name="type">
-	<input type="submit" name="submit" value="View Results">
-</form>
-
 <h3>Find pets based on age</h3>
 
 <form method = "post">
