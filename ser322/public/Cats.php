@@ -10,7 +10,6 @@
 </head>
 <body> 
 <div class="container">
-  <h2>Petsplosion</h2>
   <div class="panel panel-default">
     <div class="panel-body"><ul class="nav nav-pills nav-stacked">
   <li class="active"><a href="#">Home</a></li>

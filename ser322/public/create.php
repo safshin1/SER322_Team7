@@ -1,18 +1,27 @@
 <?php include "templates/header.php"; ?>
 
-<form method="post">
-	<label for="firstname">First Name</label>
-	<input type="text" name="firstname" id="firstname">
-	<label for="lastname">Last Name</label>
-	<input type="text" name="lastname" id="lastname">
-	<label for="email">Email Address</label>
-	<input type="text" name="email" id="email">
-	<label for="age">Age</label>
-	<input type="text" name="age" id="age">
-	<label for="location">Location</label>
-	<input type="text" name="location" id="location">
-	<input type="submit" name="submit" value="Submit">
-
-</form>
+<echo> <body style="background-color:teal"></echo>
+<head>
+  <title>Bootstrap Example</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+  </head>
+  <div class="container">
+  <div class="panel panel-default">
+    <div class="panel-body"><ul class="nav nav-pills nav-stacked">
+  <li class="active"><a href="#">Home</a></li>
+  <li><a href="#">Cats</a></li>
+  <li><a href="#">Dogs</a></li>
+  <li><a href="#">Shelters</a></li>
+</ul></div>
+  </div>
+	<ul>
+		<li><a href="create.php"><strong>Create</strong></a> - add a user</li>
+		<li><a href="read.php"><strong>Read</strong></a> - find a user</li>
+	</ul>
+	
 
 <?php include "templates/footer.php"; ?>
