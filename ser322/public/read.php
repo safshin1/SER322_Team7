@@ -12,10 +12,12 @@
 <div class="container">
   <div class="panel panel-default">
     <div class="panel-body"><ul class="nav nav-pills nav-stacked">
-<li class="active"><a href="http://petsplosion.com/index.php">Home</a></li>
+<li><a href="http://petsplosion.com/index.php">Home</a></li>
   <li><a href="http://petsplosion.com/Cats.php">Cats</a></li>
   <li><a href="http://petsplosion.com/Dogs.php">Dogs</a></li>
   <li><a href="http://petsplosion.com/Shelters.php">Shelters</a></li>
+  <li><a href="http://petsplosion.com/create.php">Add a Pet</a></li>
+  <li class="active"><a href="http://petsplosion.com/read.php">Search</a></li>
 </ul></div>
   </div>
 
