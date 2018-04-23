@@ -1,6 +1,3 @@
-<?php include "templates/header.php"; ?>
-
-<!DOCTYPE html>
 <html lang="en">
 <echo> <body style="background-color:teal"></echo>
 <head>
@@ -12,7 +9,7 @@
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 </head>
 <body> 
- 
+
 <div class="container">
   <h2>Petsplosion</h2>
   <div class="panel panel-default">
@@ -23,7 +20,7 @@
   <li><a href="#">Shelters</a></li>
 </ul></div>
   </div>
-
+  
 <h2>Dogs</h2>
   <table class="table table-condensed">
     <thead>
@@ -44,5 +41,3 @@
 
 </body>
 </html>
-
-<?php include "templates/footer.php"; ?>

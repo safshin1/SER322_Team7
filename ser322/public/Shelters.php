@@ -1,6 +1,3 @@
-<?php include "templates/header.php"; ?>
-
-<!DOCTYPE html>
 <html lang="en">
 <echo> <body style="background-color:teal"></echo>
 <head>
@@ -11,8 +8,8 @@
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 </head>
-<body> 
- 
+<body>
+
 <div class="container">
   <h2>Petsplosion</h2>
   <div class="panel panel-default">
@@ -42,5 +39,3 @@
 
 </body>
 </html>
-
-<?php include "templates/footer.php"; ?>
