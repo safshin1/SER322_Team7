@@ -20,7 +20,7 @@
   <li><a href="#">Shelters</a></li>
 </ul></div>
   </div>
-
+  
 <h2>Dogs</h2>
   <table class="table table-condensed">
     <thead>
