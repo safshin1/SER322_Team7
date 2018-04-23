@@ -1,3 +1,4 @@
+<?php include 'templates/header.php';?>
 <html lang="en">
 <echo> <body style="background-color:teal"></echo>
 <head>
@@ -40,3 +41,4 @@
 
 </body>
 </html>
+<?php include 'templates/footer.php';?>

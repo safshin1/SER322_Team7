@@ -1,4 +1,6 @@
-<?php include 'templates/header.php';?>	
+<?php include 'templates/header.php';?>
+<echo> <body style="background-color:teal"></echo>
+	
 <head>
   <title>Bootstrap Example</title>
   <meta charset="utf-8">
@@ -7,7 +9,7 @@
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
   </head>
-
+<div class="container">
   <div class="panel panel-default">
   <div class="panel-body"><ul class="nav nav-pills nav-stacked">
   <li class="active"><a href="#">Home</a></li>

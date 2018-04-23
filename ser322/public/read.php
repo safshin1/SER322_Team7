@@ -1,3 +1,4 @@
+<?php include 'templates/header.php';?>
 <html lang="en">
 <echo> <body style="background-color:teal"></echo>
 <head>
@@ -56,5 +57,5 @@
 <a href="index.php">Back to home</a>
 </body>
 </html>
-
+<?php include 'templates/footer.php';?>
 
