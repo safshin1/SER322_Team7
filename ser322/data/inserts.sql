@@ -96,4 +96,3 @@ VALUES(502, "PetSmart", 202);
 
 INSERT INTO LOCATIONS
 VALUES(503, "Phoenix Pet Rescue", 203);
-
