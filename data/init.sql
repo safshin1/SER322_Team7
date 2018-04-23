@@ -20,8 +20,8 @@ CREATE TABLE PETS (
 	locID INT,
 	dateRecieved DATE,
 	intakeAgent VARCHAR(15) NOT NULL,
-	adoptionID INT
-	PRIMARY KEY(petID),
+	adoptionID INT,
+	PRIMARY KEY (petID),
 	FOREIGN KEY(breedID) references BREEDS(breedID),
 	FOREIGN KEY(locID) references LOCATIONS(locID),
 	FOREIGN KEY(adoptionID) references ADOPTION_INFO(adoptionID)
@@ -56,12 +56,12 @@ CREATE TABLE VET_RECORDS (
 	issue3 DATE,
 	visitDate DATE NOT NULL,
 	PRIMARY KEY(vetRecID),
-	FOREIGN KEY(petID) references PETS(petID)
+	FOREIGN KEY(petID) references PETS(petID),
 	FOREIGN KEY(vacRecID) references VACCINATION_RECORDS(vacRecID)
 );
 
 CREATE TABLE VACCINATION_RECORDS(
-	vacRecID INT NOT NULL
+	vacRecID INT NOT NULL,
 	rabies DATE,
 	parvo DATE,
 	distemper DATE,
@@ -104,5 +104,3 @@ CREATE TABLE LOCATIONS(
 	PRIMARY KEY(locID),
 	FOREIGN KEY(contactInfoID) references CONTACT_INFO(contactInfoID)
 );
-
-
