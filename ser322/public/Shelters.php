@@ -9,7 +9,7 @@
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 </head>
 <body>
- 
+
 <div class="container">
   <h2>Petsplosion</h2>
   <div class="panel panel-default">
