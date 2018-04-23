@@ -1,6 +1,5 @@
 <?php include "templates/header.php"; ?>
 
-<!DOCTYPE html>
 <html lang="en">
 <echo> <body style="background-color:teal"></echo>
 <head>
