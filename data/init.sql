@@ -1,6 +1,6 @@
-CREATE DATABASE PETSPLOSION;
+CREATE DATABASE petsplosion;
 
-use test;
+use petsplosion;
 
 CREATE TABLE ADOPTERS (
 	aID INT NOT NULL,
