@@ -8,16 +8,16 @@ INSERT INTO ADOPTERS
 VALUES(102, "Abraham", "Lincoln", 602);
 
 INSERT INTO PETS
-VALUES(1,"Vader",23,1,"M",43, 4/21/18, "Jensen",300);
+VALUES(1,"Vader",23,1,"M",500, 4/21/18, "Jensen",300);
 
 INSERT INTO PETS
-VALUES(2,"Sasha",24,5,"F",44, 4/19/18, "Jacob", 301);
+VALUES(2,"Sasha",24,5,"F",501, 4/19/18, "Jacob", 301);
 
 INSERT INTO PETS
-VALUES(3,"Burt",25,2,"M",45, 4/20/18, "Matt",NULL);
+VALUES(3,"Burt",25,2,"M",502, 4/20/18, "Matt",NULL);
 
 INSERT INTO PETS
-VALUES(4,"Sandra",26,10,"F",46, 4/15/18, "Jesse",NULL);
+VALUES(4,"Sandra",26,10,"F",503, 4/15/18, "Jesse",NULL);
 
 INSERT INTO ADOPTION_INFO
 VALUES(300, 4/22/18, "Jensen", 100);
